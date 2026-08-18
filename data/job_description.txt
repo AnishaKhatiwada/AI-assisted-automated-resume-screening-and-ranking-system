@@ -1,0 +1,21 @@
+Job Title: Java Software Engineer
+
+We are looking for a Java Software Engineer to join our software development team.
+
+Requirements:
+
+- Strong knowledge of Java
+- Experience with Spring Boot
+- Experience developing REST APIs
+- Knowledge of SQL and relational databases
+- Experience with Git
+- Experience working in Agile teams
+- 2+ years of software development experience
+- dotnet
+
+Preferred Skills:
+
+- Experience with Docker
+- Experience with Jenkins
+- Experience with MongoDB
+- Experience working on enterprise applications

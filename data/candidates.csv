@@ -1,0 +1,6 @@
+rank,candidate,resume,semantic_similarity,skill_match,overall_score,matched_skills,missing_skills
+1,Anisha___Resume___teaching,Anisha___Resume___teaching.pdf,54.70000076293945,88.89,64.95999908447266,Java; Spring Boot; REST APIs; SQL; MongoDB; Git; Jenkins; Docker,Agile
+2,Anisha___Resume___2023_1,Anisha___Resume___2023_1.pdf,44.77000045776367,66.67,51.34000015258789,Java; Spring Boot; REST APIs; Git; Jenkins; Docker,SQL; MongoDB; Agile
+3,Anisha___Resume___2023,Anisha___Resume___2023.pdf,42.7599983215332,66.67,49.93000030517578,Java; Spring Boot; REST APIs; Git; Jenkins; Docker,SQL; MongoDB; Agile
+4,Anisha___Resume___2025,Anisha___Resume___2025.pdf,42.310001373291016,66.67,49.619998931884766,Java; Spring Boot; REST APIs; Git; Jenkins; Docker,SQL; MongoDB; Agile
+5,software-engineer-resume-example,software-engineer-resume-example.pdf,44.27999877929688,44.44,44.33000183105469,Java; REST APIs; SQL; Agile,Spring Boot; MongoDB; Git; Jenkins; Docker
